@@ -36,7 +36,7 @@ The top 5 similar movies are displayed along with their posters.
 
 📂 Project Structure
 
-movie-recommender-system/
+movie-recommender-system
 │
 ├── app.py
 ├── movie_list.pkl
