@@ -213,10 +213,7 @@ if st.button("Show Recommendation"):
 
             if recommended_movie_posters[i]:
 
-                st.image(
-                    recommended_movie_posters[i],
-                    use_container_width=True
-                )
+                st.image(recommended_movie_posters[i], width="stretch")
 
             else:
 
