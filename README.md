@@ -37,13 +37,12 @@ The top 5 similar movies are displayed along with their posters.
 📂 Project Structure
 
 movie-recommender-system
-│
-├── app.py
-├── movie_list.pkl
-├── similarity.pkl
-├── movie-recommender-system.ipynb
-├── requirements.txt
-└── README.md
+-> app.py
+-> movie_list.pkl
+-> similarity.pkl
+-> movie-recommender-system.ipynb
+-> requirements.txt
+-> README.md
 
 ⚙️ Run Locally
 
