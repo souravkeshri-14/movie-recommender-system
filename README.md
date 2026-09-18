@@ -28,11 +28,11 @@ A content-based Movie Recommendation System built using Python, Machine Learning
 
 The system uses a content-based recommendation approach.
 
-Movie information is processed and transformed into numerical features.
-Similarity between movies is calculated.
-The similarity matrix is saved as similarity.pkl.
-When a user selects a movie, the system finds movies with the highest similarity scores.
-The top 5 similar movies are displayed along with their posters.
+1. Movie information is processed and transformed into numerical features.
+2. Similarity between movies is calculated.
+3. The similarity matrix is saved as similarity.pkl.
+4. When a user selects a movie, the system finds movies with the highest similarity scores.
+5. The top 5 similar movies are displayed along with their posters.
 
 📂 Project Structure
 
@@ -64,8 +64,8 @@ The project uses movie information containing movie titles and related features 
 The trained/precomputed similarity matrix is stored separately as similarity.pkl.
 
 🔮 Future Improvements
-Add movie ratings and genres
-Improve recommendation accuracy
+\n Add movie ratings and genres
+\n Improve recommendation accuracy
 Add movie descriptions and release information
 Add user-based recommendations
 Improve UI/UX
