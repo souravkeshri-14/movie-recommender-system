@@ -7,12 +7,12 @@ A content-based Movie Recommendation System built using Python, Machine Learning
 👉 Try the Movie Recommender System
 
 📌 Features
-🎥 Select a movie from a searchable dropdown
-🤖 Get 5 similar movie recommendations
-🖼️ Automatically fetch movie posters
-⚡ Fast recommendation using a precomputed similarity matrix
-🌐 Interactive web interface using Streamlit
-☁️ Deployed online with Streamlit Community Cloud
+1. 🎥 Select a movie from a searchable dropdown
+2. 🤖 Get 5 similar movie recommendations
+3. 🖼️ Automatically fetch movie posters
+4. ⚡ Fast recommendation using a precomputed similarity matrix
+5. 🌐 Interactive web interface using Streamlit
+6. ☁️ Deployed online with Streamlit Community Cloud
 
 🛠️ Technologies Used
 1. Python
