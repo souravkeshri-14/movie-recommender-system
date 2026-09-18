@@ -15,14 +15,14 @@ A content-based Movie Recommendation System built using Python, Machine Learning
 ☁️ Deployed online with Streamlit Community Cloud
 
 🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn
-Streamlit
-Requests
-Pickle
-Wikipedia API – for movie poster retrieval
+1. Python
+2. Pandas
+3. NumPy
+4. Scikit-learn
+5. Streamlit
+6. Requests
+7. Pickle
+8. Wikipedia API – for movie poster retrieval
 
 🧠 How It Works
 
