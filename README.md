@@ -64,12 +64,12 @@ The project uses movie information containing movie titles and related features 
 The trained/precomputed similarity matrix is stored separately as similarity.pkl.
 
 🔮 Future Improvements
-\n Add movie ratings and genres
-\n Improve recommendation accuracy
-Add movie descriptions and release information
-Add user-based recommendations
-Improve UI/UX
-Add personalized recommendation history
+1. Add movie ratings and genres
+2. Improve recommendation accuracy
+3. Add movie descriptions and release information
+4. Add user-based recommendations
+5. Improve UI/UX
+6. Add personalized recommendation history
 
 👨‍💻 Author
 
