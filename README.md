@@ -171,3 +171,8 @@ similarity.pkl
 ## ⭐ Support
 
 If you found this project useful, consider giving the repository a **star ⭐** on GitHub!
+
+<p align="center">
+  Made with ❤️ using Python & Streamlit
+</p>
+
