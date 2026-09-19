@@ -1,6 +1,16 @@
 # 🎬 Movie Recommender System
 
-A **content-based Movie Recommendation System** built using **Python, Machine Learning, and Streamlit**. The application recommends **5 similar movies** based on the movie selected by the user.
+> A content-based movie recommendation web application built using **Python, Machine Learning, Pandas, Scikit-learn, and Streamlit** that recommends 5 similar movies based on the user's selection.
+
+<p align="left">
+  <a href="https://github.com/souravkeshri-14/movie-recommender-system">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+</p>
 
 ## 🚀 Live Demo
 
